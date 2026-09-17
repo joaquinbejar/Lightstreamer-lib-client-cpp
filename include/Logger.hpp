@@ -28,6 +28,10 @@
 #include  <iomanip>
 #include  <sstream>
 #include  <iostream>
+#include  <atomic>
+#include  <ctime>
+#include  <memory>
+#include  <mutex>
 
 #include "ConsoleLogLevel.hpp"
 

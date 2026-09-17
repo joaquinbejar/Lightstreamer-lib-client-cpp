@@ -1,7 +1,7 @@
 [submodule "extern/beast"]
 	path = extern/beast
 	url = https://github.com/boostorg/beast.git
-    # Use tag boost-1.84.0 for this submodule
+    # Use tag boost-1.92.0 for this submodule
 [submodule "extern/simple_color"]
 	path = extern/simple_color
 	url = https://github.com/joaquinbejar/simple_color.git

@@ -36,7 +36,7 @@ namespace lightstreamer::client {
         static constexpr char EXT_ALPHA_NUMERIC[] = "^[a-zA-Z0-9_]*$";
 
         static constexpr auto LIB_NAME = "LightstreamerCppStandard.Client";
-        static constexpr auto LIB_VERSION = "0.1.0.alpha.1";
+        static constexpr auto LIB_VERSION = "0.1.0";
 
         static constexpr auto TLCP_VERSION = "TLCP-2.1.0";
         static constexpr auto ACTIONS_LOG = "lightstreamer.actions";

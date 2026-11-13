@@ -87,6 +87,14 @@ TODO
 
 For questions and support please use the [Joaquin Bejar](jb@taunais.com). The issue list of this page is **exclusively** for bug reports and feature requests.
 
+## Contribution and Contact
+
+### **Contact Information**
+- **Author**: Joaquín Béjar García
+- **Email**: jb@taunais.com
+- **Telegram**: [@joaquin_bejar](https://t.me/joaquin_bejar)
+- **Repository**: <https://github.com/joaquinbejar/Lightstreamer-lib-client-cpp>
+
 ## License
 
 [GNU 3](https://opensource.org/license/gpl-3-0)
@@ -94,12 +102,6 @@ For questions and support please use the [Joaquin Bejar](jb@taunais.com). The is
 <!-- related-projects:start -->
 ## Related projects
 
-Repositories by the same author that this project depends on, and repositories that depend on it.
-
-### Depends on
-
-| Repository | Description |
-|------------|-------------|
-| [simple_color](https://github.com/joaquinbejar/simple_color) | Small C++ library to colorize log output. *(git submodule)* |
+No other repositories by the same author depend on this project, and it depends on none of them. See all repositories at <https://github.com/joaquinbejar?tab=repositories>.
 
 <!-- related-projects:end -->

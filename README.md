@@ -102,6 +102,12 @@ For questions and support please use the [Joaquin Bejar](jb@taunais.com). The is
 <!-- related-projects:start -->
 ## Related projects
 
-No other repositories by the same author depend on this project, and it depends on none of them. See all repositories at <https://github.com/joaquinbejar?tab=repositories>.
+Repositories by the same author that this project depends on, and repositories that depend on it.
+
+### Depends on
+
+| Repository | Description |
+|------------|-------------|
+| [simple_color](https://github.com/joaquinbejar/simple_color) | Small C++ color library, pulled in as a git submodule, used for colored log output. |
 
 <!-- related-projects:end -->
